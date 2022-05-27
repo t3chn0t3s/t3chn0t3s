@@ -18,7 +18,7 @@ github_username: "t3chn0t3s"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: jekyll-theme-hacker
+theme: jekyll-theme-leap-day
 
 rss: rss
 
