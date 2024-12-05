@@ -1,1 +1,1 @@
-<img src=x onerror=alert(0)>
+alert(0);
